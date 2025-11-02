@@ -109,4 +109,3 @@ Analyze and visualize hotel **revenue performance** across cities, room categori
 
 ---
 
-## 📂 Repository Structure
